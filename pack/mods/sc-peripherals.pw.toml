@@ -1,0 +1,13 @@
+name = "SwitchCraft Peripherals"
+filename = "sc-peripherals-1.10.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a413029a618aa31a51a25dd9d87b98d4b75cd7d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5243888
+project-id = 807669

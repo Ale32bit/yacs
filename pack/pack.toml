@@ -1,0 +1,13 @@
+name = "Yacs"
+author = "AlexDevs"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e6bc7491599f3727726a4ff78432f7fded9dcbf8ead1c3c71a13435af3f75f1b"
+
+[versions]
+fabric = "0.16.8"
+minecraft = "1.20.1"
