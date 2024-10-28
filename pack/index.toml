@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
-hash = "f7bbb7e37f2118af29450ec468d3ce4ec2606fead2861f4092a43509c6803ed6"
+file = "files/hexcasting-fabric-1.20.1-0.11.1-7.jar"
+hash = "8a931675ec0e3ece1e4a63dd77d87765d2fa46b660b0d3b8892d61d5024f82e3"
 
 [[files]]
-file = "mods/Searchables-fabric-1.20.1-1.0.3.jar"
-hash = "f32e0b0c9bebc99944ddc6a9dba8f8336af666aaba151c6839b8353a2acdd53a"
+file = "files/plethora.jar"
+hash = "dcd1d216a8264d655a1e5b37610a9a069ca13f5b58b8ad5750a6d8cb1af2b523"
 
 [[files]]
-file = "mods/TurtleCosmeticsFabric-1.2-1.20.1.jar"
-hash = "91208544dc229be8787735db5f0be3b9ca06d312dfb0512c4fe8b15c0829a2ec"
+file = "files/yacsintegrations-1.0-SNAPSHOT.jar"
+hash = "886f1e83f1978cc87f1a0b49340554a8c4b712fc27a06b462ad98d044ee4c551"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -143,10 +143,6 @@ hash = "e208db5949d740af56dc496ede6b6bf18be256f3a0c5a589b128ec7a402f615f"
 metafile = true
 
 [[files]]
-file = "mods/createcobblestone-1.4.1-beta-2+fabric-1.20.1-59.jar"
-hash = "2b4309cb7334f67693ebd7f3fc994313f853c3443371b3d0942a27a00c273459"
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "84ff4a386fee34f9a15311b87988a55367ed5edcfcdb390f846a5cb925bdad62"
 metafile = true
@@ -202,8 +198,9 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
-file = "mods/hexcasting-fabric-1.20.1-0.11.1-7.jar"
-hash = "8a931675ec0e3ece1e4a63dd77d87765d2fa46b660b0d3b8892d61d5024f82e3"
+file = "mods/hexcasting.pw.toml"
+hash = "c972fa4e46c1202702543c7dc41898bb1f3f7601ff17d6708c7441b72f6a5e2d"
+metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -281,8 +278,9 @@ hash = "93254260b1e27a4328ced8647179ba576870a78d12a556fa91a2d35321718cca"
 metafile = true
 
 [[files]]
-file = "mods/plethora.jar"
-hash = "dcd1d216a8264d655a1e5b37610a9a069ca13f5b58b8ad5750a6d8cb1af2b523"
+file = "mods/plethora.pw.toml"
+hash = "0af494d4a8342e864bc9c91c6b446cc1acb6a925a2254a38702c6b16751a739f"
+metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
@@ -372,4 +370,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b2b74f4114afc97346085d7ec86b8e54045d3dc7a7b3d3b8aeb69e8ded659001"
+metafile = true
+
+[[files]]
+file = "mods/yacs.pw.toml"
+hash = "7108baec9f8ab2ba14acae626e529c02dcb433cd728c6e22c51c61d9ced98236"
 metafile = true

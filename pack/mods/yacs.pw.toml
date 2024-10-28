@@ -1,0 +1,7 @@
+name = "yacs"
+filename = "yacsintegrations-1.0-SNAPSHOT.jar"
+
+[download]
+url = "https://yacs.alexdevs.me/pack/files/yacsintegrations-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "886f1e83f1978cc87f1a0b49340554a8c4b712fc27a06b462ad98d044ee4c551"

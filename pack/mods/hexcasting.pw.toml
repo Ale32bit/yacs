@@ -1,0 +1,7 @@
+name = "hexcasting"
+filename = "hexcasting-fabric-1.20.1-0.11.1-7.jar"
+
+[download]
+url = "https://yacs.alexdevs.me/pack/files/hexcasting-fabric-1.20.1-0.11.1-7.jar"
+hash-format = "sha256"
+hash = "8a931675ec0e3ece1e4a63dd77d87765d2fa46b660b0d3b8892d61d5024f82e3"

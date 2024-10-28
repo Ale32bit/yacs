@@ -1,0 +1,7 @@
+name = "plethora"
+filename = "plethora.jar"
+
+[download]
+url = "https://yacs.alexdevs.me/pack/files/plethora.jar"
+hash-format = "sha256"
+hash = "dcd1d216a8264d655a1e5b37610a9a069ca13f5b58b8ad5750a6d8cb1af2b523"
