@@ -13,11 +13,6 @@ file = "files/yacsintegrations-1.0-SNAPSHOT.jar"
 hash = "886f1e83f1978cc87f1a0b49340554a8c4b712fc27a06b462ad98d044ee4c551"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "00318827d72a18aedaf7979e4f7938a0e6a2c35fc703906cad64ea6b38cb7200"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "681511d4a168092533587895fa6fa0073edf6f64504fac271f2e8c653e20a3b4"
 metafile = true
