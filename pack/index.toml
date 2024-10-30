@@ -238,11 +238,6 @@ hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "e472e82c4c2002a28615c878917391ff84844f677549865d0429e84b60f8cc06"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "28a7f687f3ded3749975c726dcf34598e23b32fa4d219bef412594c4a33d628e"
 metafile = true
