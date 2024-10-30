@@ -153,6 +153,11 @@ hash = "84ff4a386fee34f9a15311b87988a55367ed5edcfcdb390f846a5cb925bdad62"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "ed56ad6117c8f153c02045715476c150aac0908d0d7db9254fa985f9ef6d9e82"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3dc065eeb299cc0e9641d049e4657dfa6a37077be7506e2efa36086cd32382c3"
 metafile = true
