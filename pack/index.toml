@@ -123,11 +123,6 @@ hash = "126fc50a9d1c468f821268c9060d9451b175cc574d6e571b1a9c675aeb184f7f"
 metafile = true
 
 [[files]]
-file = "mods/create-cobblestone.pw.toml"
-hash = "0552183ccceb2bc9020fbfe199e83ab60554c6fb21931170089c714d199e5a09"
-metafile = true
-
-[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "04d95de568270ce6b115aefb77dd9a8a9511398d4305f1ca2798310b75851e67"
 metafile = true
