@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "975ac592ad1cbc5ba43ae2cef01c3df9d9793ab0fc96b48aefc119d3cdea7a2d"
+hash = "0552183ccceb2bc9020fbfe199e83ab60554c6fb21931170089c714d199e5a09"
 metafile = true
 
 [[files]]
@@ -159,12 +159,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3bd1ce101d25b157c2bae6ebda7fa3fe6a2d8eb38e69b7bd58a538c5be64b2a3"
+hash = "b4ca0e320b3dd66ff29fbe902bbf1d8d5106b30dc485025dc7f4c8bb42742237"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "233c2243528e9d710197b0adb8109dccaaf8e04c6cba2bd962213810f9cf2d7a"
+hash = "5b0b9dec84ec37febaf173cd39652dde0a135f23664e1d01f116d35ac9951d67"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "c7638ed7442c92e8de807c5bb52c40441d65b96f1e66e3ecfc11daf00b60503b"
+hash = "71a34d3ec371a744845971de4dc327789c56892dc8786e71cf4bbd7fc03a0364"
 metafile = true
 
 [[files]]
