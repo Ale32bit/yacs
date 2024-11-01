@@ -318,6 +318,11 @@ hash = "71a34d3ec371a744845971de4dc327789c56892dc8786e71cf4bbd7fc03a0364"
 metafile = true
 
 [[files]]
+file = "mods/simple-cobblestone-generator.pw.toml"
+hash = "3bb4f2b66a4cf607556e88894978100e7c1d58effe96b7df7d7e21118043d807"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
